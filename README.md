@@ -4,6 +4,7 @@ Here I use pivot table to group date, analyze and summarize data in a spreadshee
 Here's some screenshot with demo application 
 
 ![pivot tables](https://user-images.githubusercontent.com/33751371/34668675-a80a5040-f498-11e7-860d-4eb9cd0364d8.PNG)
+![screenshot](https://user-images.githubusercontent.com/33751371/34719123-ad2d4f2a-f563-11e7-9efe-fbc8d1846e0b.PNG)
 
 ### Slicer:
 Here I use slicer to filter pivotTable data
