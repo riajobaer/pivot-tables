@@ -1,5 +1,4 @@
-Pivot Tables
------------
+# Pivot Tables
 Pivot tables are used to summarize, sort, organize, group, count, total or average data stored in a database. 
 My data set consists of 894 records and 8 fields. Salesperson, Product, Region, Customer, Date, Item Cost, No.Items, Total Cost.
 Here I use pivot table to group date, reorganize and summarize selected columns and rows of data in a spreadsheet or database table to obtain a desired report.
