@@ -10,3 +10,4 @@ Here's some screenshot with demo application
 
 ### Slicer :
 here I use slicer to filter pivotTable data
+![slicer](https://user-images.githubusercontent.com/33751371/34718357-86b8357e-f560-11e7-82ae-9a61a3260693.PNG)
