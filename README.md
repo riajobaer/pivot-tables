@@ -8,4 +8,5 @@ I also create a pivot chart from a table for visualizations my data.
 Here's some screenshot with demo application 
 ![pivot tables](https://user-images.githubusercontent.com/33751371/34668675-a80a5040-f498-11e7-860d-4eb9cd0364d8.PNG)
 
-
+### Slicer :
+here I use slicer to filter pivotTable data
