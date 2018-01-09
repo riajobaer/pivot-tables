@@ -11,5 +11,6 @@ Here's some screenshot with demo application
 here I use slicer to filter pivotTable data
 ![slicer](https://user-images.githubusercontent.com/33751371/34718357-86b8357e-f560-11e7-82ae-9a61a3260693.PNG)
 
-##Pivot Charts :
+### Pivot Charts :
 I also create a pivot chart from  table for visualizations my data
+![chart](https://user-images.githubusercontent.com/33751371/34718591-7891813e-f561-11e7-8d30-cae64d012812.PNG)
