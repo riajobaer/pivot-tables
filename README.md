@@ -1,5 +1,5 @@
 # Pivot Tables
-Here I use pivot table to group date, reorganize and summarize selected columns and rows of data in a spreadsheet or database table to obtain a desired report. My data set consists of 894 records and 8 fields. Salesperson, Product, Region, Customer, Date, Item Cost, No.Items, Total Cost.
+Here I use pivot table to group date, analyze and summarize data in a spreadsheet or database table to obtain a desired report. My data set consists of 894 records and 8 fields. Salesperson, Product, Region, Customer, Date, Item Cost, No.Items, Total Cost.
 
 Here's some screenshot with demo application 
 
